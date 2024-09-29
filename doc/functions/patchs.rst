@@ -55,7 +55,7 @@ PC_PCId
 
 :PC_PCId(p pcpatch) returns integer:
 
-Return the pcid schema number of points in this patch.
+Return the pcid of schema in this patch.
 
 .. code-block::
 
